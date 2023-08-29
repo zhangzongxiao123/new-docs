@@ -12,6 +12,6 @@
 
 5.需要注意的是，在组织层面Owner和Admin存在互相备份关系，拥有组织内的相同权限。如Owner需进行设备更换，需要联系平台进行身份验证后在新设备恢复账户。如Admin需要更换设备，将由Owner进行验证。
 
-<figure><img src="../images/assets/image (75).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (75).png>)
 
 6.用户可以邀请其它用户加入组织，被邀请人的等级必须低于邀请人，邀请流程参照[【邀请成员流程】](invite-members.md)

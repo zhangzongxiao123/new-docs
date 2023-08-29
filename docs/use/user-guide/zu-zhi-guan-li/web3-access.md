@@ -10,13 +10,13 @@
 
 需要注意的是，DApp不属于Sinohope，请您务必确认好其安全性和访问地址再进行访问。
 
-<figure><img src="../images/assets/image (1).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (1).png>)
 
 2.进入DApp后，点击DApp内连接钱包的功能选项。Sinohope可通过metamask兼容的接口方式连接DApp，在钱包选择界面点击【Metamask】并完成授权后即可连接DApp。
 
 <div align="left">
 
-<figure><img src="../images/assets/image (87).png" alt="" width="375"/><figcaption></figcaption></figure>
+![](<../images/assets/image (87).png>)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 <div align="left">
 
-<figure><img src="../images/assets/image (88).png" alt="" width="375"/><figcaption></figcaption></figure>
+![](<../images/assets/image (88).png>)
 
 </div>
 
@@ -32,6 +32,6 @@
 
 <div align="left">
 
-<figure><img src="../images/assets/image (91).png" alt="" width="375"/><figcaption></figcaption></figure>
+![](<../images/assets/image (91).png>)
 
 </div>
