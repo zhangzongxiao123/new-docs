@@ -10,7 +10,7 @@
 
 3.点击“保存”按钮，完成部门的创建。
 
-<figure><img src="../images/assets/image (40).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (40).png>)
 
 <figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
 code=YzdmMzI2ZGY4MTUxYmRmODQ3MTI0MmUxNTVkNmI3YmNfYUdjWDk0SW84Rld4cXBvTm1KMUJBcklYd0VwTThjWFZfVG9rZW46U25uR2J4M2thb0NjTER4eUwzd3U4Z1hoc1pjXzE2ODM2NDM0MDI6MTY4MzY0NzAwMl9WNA" alt=""/><figcaption></figcaption></figure>
@@ -27,7 +27,7 @@ code=YzdmMzI2ZGY4MTUxYmRmODQ3MTI0MmUxNTVkNmI3YmNfYUdjWDk0SW84Rld4cXBvTm1KMUJBckl
 
 4.点击“保存”按钮，完成钱包的添加。
 
-<figure><img src="../images/assets/image (14).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (14).png>)
 
 <figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
 code=MGFlNzZkMGEwZWZjZTI3ODhmOWVkYzFhNTIwYWUxMWFfTERWdTZ4NzlxcFUyRGlrZzg1eURXcVJsZW52WnpQZVRfVG9rZW46TnpIcmJUeldIbzVaM014N1RmWXVDU0Jsc2ZiXzE2ODM2NDM0MDI6MTY4MzY0NzAwMl9WNA" alt=""/><figcaption></figcaption></figure>

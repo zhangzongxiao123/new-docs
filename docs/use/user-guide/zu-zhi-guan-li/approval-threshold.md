@@ -12,7 +12,7 @@
 
 4.点击确定
 
-<figure><img src="../images/assets/image (11).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (11).png>)
 
 
 

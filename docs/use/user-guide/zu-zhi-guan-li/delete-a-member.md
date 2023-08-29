@@ -6,9 +6,9 @@
 
 2.在成员列表中，选择要删除的成员并点击右上角的删除按钮。
 
-<figure><img src="../images/assets/image (63).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (63).png>)
 
 3.连续点击两次操作确认并输入6位密码即可完成成员删除
 
-<figure><img src="../images/assets/image (30).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (30).png>)
 
