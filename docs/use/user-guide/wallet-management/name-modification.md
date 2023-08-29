@@ -12,4 +12,4 @@ When necessary, the organization creator (Owner) can contact SINOHOPE customer s
 1. Click on the department, then click the modify icon on the right side of the department name. Department names within the organization must be unique.
 2. Input the new department name and click "Save."
 
-![](../.gitbook/assets/未命名文件\(111\).png)
+![](../images/assets/未命名文件\(111\).png)

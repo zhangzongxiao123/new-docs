@@ -6,7 +6,7 @@ Users can initiate transfers by swiping left on a token or clicking on token det
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (110).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../images/assets/image (110).png>)
 
 </div>
 
@@ -16,7 +16,7 @@ Users can provide their wallet address or a QR code to receive payments. To do t
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (111).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../images/assets/image (111).png>)
 
 </div>
 

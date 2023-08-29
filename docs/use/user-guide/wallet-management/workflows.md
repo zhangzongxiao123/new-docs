@@ -6,4 +6,4 @@ When a member initiates a transfer or adds an address to the address book, the p
 
 
 
-![](<../.gitbook/assets/image (75).png>)![](../.gitbook/assets/b90589eec6addf7a0934856fef478be.jpg)
+![](<../images/assets/image (75).png>)![](../images/assets/b90589eec6addf7a0934856fef478be.jpg)
