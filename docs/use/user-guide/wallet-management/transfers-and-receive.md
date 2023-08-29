@@ -20,7 +20,8 @@ Users can provide their wallet address or a QR code to receive payments. To do t
 
 </div>
 
-<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?code=MjY2YzQ5YzM2NTlmZGExMDNjZjQ0MmJiYjM3MGI4ZTNfRllPS1Z0SHIwRTE1Wjh4aFVZZUdiZHo3dUl5WlB6N3BfVG9rZW46VnNpVmJQZTdib09LU1p4UloyYXU0aG9Wc0ZjXzE2ODM2NDQyODU6MTY4MzY0Nzg4NV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
+code=MjY2YzQ5YzM2NTlmZGExMDNjZjQ0MmJiYjM3MGI4ZTNfRllPS1Z0SHIwRTE1Wjh4aFVZZUdiZHo3dUl5WlB6N3BfVG9rZW46VnNpVmJQZTdib09LU1p4UloyYXU0aG9Wc0ZjXzE2ODM2NDQyODU6MTY4MzY0Nzg4NV9WNA" alt=""/><figcaption></figcaption></figure>
 
 **Gas Fee**
 

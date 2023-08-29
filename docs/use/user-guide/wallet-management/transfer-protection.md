@@ -4,4 +4,5 @@ SINOHOPE offers users a transfer protection feature. When enabled, users can onl
 
 ![](<../images/assets/image (21).png>)
 
-<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?code=YjI4OGVjZWFjNjNhNzlmMGY5MDhhMDBmM2MxZWUwYTNfd0puS1JEMmhRUkk5QmhKNW9qM1ZYakxJZXQ2bnU4V2xfVG9rZW46TTNwcGJuM29ibzE2N1h4bFhmUnVmSHBYc09xXzE2ODM3MDMyODU6MTY4MzcwNjg4NV9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
+code=YjI4OGVjZWFjNjNhNzlmMGY5MDhhMDBmM2MxZWUwYTNfd0puS1JEMmhRUkk5QmhKNW9qM1ZYakxJZXQ2bnU4V2xfVG9rZW46TTNwcGJuM29ibzE2N1h4bFhmUnVmSHBYc09xXzE2ODM3MDMyODU6MTY4MzcwNjg4NV9WNA" alt=""/><figcaption></figcaption></figure>

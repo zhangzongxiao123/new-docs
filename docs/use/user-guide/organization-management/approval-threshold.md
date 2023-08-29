@@ -15,4 +15,5 @@ The process for setting approval thresholds is as follows:
 
 
 
-<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?code=ODVkOWE5NDQzZTIwYzE0MDBjNWVhY2UzZTlkYTc5MWZfY0lIYlJOWWpkUEt2WGRTb041RllhTFZZTFV4bXU3UGRfVG9rZW46QmtNdWIzb1VKb1pSVnV4cWIzQ3VGdWlBc0hjXzE2ODM2NDMxMjA6MTY4MzY0NjcyMF9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
+code=ODVkOWE5NDQzZTIwYzE0MDBjNWVhY2UzZTlkYTc5MWZfY0lIYlJOWWpkUEt2WGRTb041RllhTFZZTFV4bXU3UGRfVG9rZW46QmtNdWIzb1VKb1pSVnV4cWIzQ3VGdWlBc0hjXzE2ODM2NDMxMjA6MTY4MzY0NjcyMF9WNA" alt=""/><figcaption></figcaption></figure>

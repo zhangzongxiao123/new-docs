@@ -18,4 +18,5 @@ For instance, when a member of an organization applies to log in with a new devi
 
 </div>
 
-<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?code=MjRlZmVmYjA2MDZiOTBmYzc1M2YwNDdiMjYwM2VhOTZfeEc4Uk9Qd2FVbE1VN01VZHNqWUw5cGpzOWlBYUtDOThfVG9rZW46UTVYMGJUczllb2xvRll4UktmcHVrZDVqczhwXzE2ODM2NDQ3NzI6MTY4MzY0ODM3Ml9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
+code=MjRlZmVmYjA2MDZiOTBmYzc1M2YwNDdiMjYwM2VhOTZfeEc4Uk9Qd2FVbE1VN01VZHNqWUw5cGpzOWlBYUtDOThfVG9rZW46UTVYMGJUczllb2xvRll4UktmcHVrZDVqczhwXzE2ODM2NDQ3NzI6MTY4MzY0ODM3Ml9WNA" alt=""/><figcaption></figcaption></figure>

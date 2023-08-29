@@ -21,4 +21,5 @@ In SINOHOPE, Owners and Admins can create wallets and assign them to organizatio
 
 ![](<../images/assets/image (114).png>)
 
-<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?code=MGFlNzZkMGEwZWZjZTI3ODhmOWVkYzFhNTIwYWUxMWFfTERWdTZ4NzlxcFUyRGlrZzg1eURXcVJsZW52WnpQZVRfVG9rZW46TnpIcmJUeldIbzVaM014N1RmWXVDU0Jsc2ZiXzE2ODM2NDM0MDI6MTY4MzY0NzAwMl9WNA" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
+code=MGFlNzZkMGEwZWZjZTI3ODhmOWVkYzFhNTIwYWUxMWFfTERWdTZ4NzlxcFUyRGlrZzg1eURXcVJsZW52WnpQZVRfVG9rZW46TnpIcmJUeldIbzVaM014N1RmWXVDU0Jsc2ZiXzE2ODM2NDM0MDI6MTY4MzY0NzAwMl9WNA" alt=""/><figcaption></figcaption></figure>
