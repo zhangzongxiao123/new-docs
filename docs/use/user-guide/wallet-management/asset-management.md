@@ -6,7 +6,7 @@ The self-custody platform supports multiple blockchains such as Ethereum, Bitcoi
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (108).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../images/assets/image (108).png>)
 
 </div>
 
@@ -16,7 +16,7 @@ In addition to supporting major cryptocurrencies like BTC, ETH, USDT, and more, 
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (109).png" alt="" width="375"><figcaption></figcaption></figure>
+![](<../images/assets/image (109).png>)
 
 </div>
 
