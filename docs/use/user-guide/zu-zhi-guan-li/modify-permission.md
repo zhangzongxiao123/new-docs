@@ -8,7 +8,7 @@
 
 3.根据需要更改该成员的组织权限级别和部门权限级别,并点击确认
 
-<figure><img src="../images/assets/image (76).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (76).png>)
 
 4.成员收到权限更改信息并确认
 
