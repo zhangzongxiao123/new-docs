@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.develop": {
+    "message": "develop",
+    "description": "The label for category develop in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.full-custody-waas-api": {
+    "message": "full-custody-waas-api",
+    "description": "The label for category full-custody-waas-api in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.get-started": {
+    "message": "get-started",
+    "description": "The label for category get-started in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.mpc-waas-api": {
+    "message": "mpc-waas-api",
+    "description": "The label for category mpc-waas-api in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.openloop-api": {
+    "message": "openloop-api",
+    "description": "The label for category openloop-api in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.learn": {
+    "message": "learn",
+    "description": "The label for category learn in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.news": {
+    "message": "news",
+    "description": "The label for category news in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.use": {
+    "message": "use",
+    "description": "The label for category use in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.solutions": {
+    "message": "solutions",
+    "description": "The label for category solutions in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.user-guide": {
+    "message": "user-guide",
+    "description": "The label for category user-guide in sidebar tutorialSidebar"
+  }
+}
