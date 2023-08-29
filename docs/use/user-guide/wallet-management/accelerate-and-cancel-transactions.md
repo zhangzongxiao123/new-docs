@@ -8,12 +8,11 @@ Pending transactions can sometimes fail due to various reasons, including low ga
 
 Initiating a new transaction with the same "From" address, "To" address, token type, and quantity as the pending transaction can speed up the process. By default, you can adjust the Gas mode to "Fast," or even set a higher Gas value. Both transactions should use the same Nonce value, resulting in one successful transaction and the other one failing.
 
-![](<../.gitbook/assets/image (22).png>)
-
+![](<../images/assets/image (22).png>)
 
 
 **Canceling a Transaction:**
 
 To cancel a transaction, you can initiate a new transaction with the same "From" address and "To" address, but set the amount of the token to 0. Set the Gas mode to "Fast" as well. Just like the previous methods, the cancellation transaction and the pending transaction should use the same Nonce value. This will result in one successful transaction (cancellation) and the other one failing (the pending transaction).
 
-![](<../.gitbook/assets/image (49).png>)
+![](<../images/assets/image (49).png>)
