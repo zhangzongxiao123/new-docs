@@ -11,21 +11,21 @@ Registration & Login
     Android: [https://play.google.com/store/apps/details?id=com.sinohope.mpcwallet.app](https://play.google.com/store/apps/details?id=com.sinohope.mpcwallet.app)
 3. The organization creator opens the SINOHOPE app, selects the "Register" option, and further provides an email address, fills in the verification code to complete the manual verification process.
 
-<figure><img src="../.gitbook/assets/1692867655838.jpg" alt=""><figcaption></figcaption></figure>
+![](<../images/assets/1692867655838.jpg>)
 
 4.After entering the 6-digit verification code received in the email and completing the email binding process, users need to further set and confirm a 6-digit numerical password.
 
-<figure><img src="../.gitbook/assets/1692867724663.jpg" alt=""><figcaption></figcaption></figure>
+![](<../images/assets/1692867724663.jpg>)
 
 5.After completing the above steps, users can proceed with organization selection and follow the instructions to bind Google Authenticator (GA) and set up password recovery. It's important to note that the recovery key will be used to recover private key fragments. Please make sure to back it up and keep it secure.
 
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+![](<../images/assets/image (117).png>)
 
 6.After binding GA and setting up the recovery key, the organization initialization process will take place. Once the initialization is complete, users can access the organization interface.
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/19d6a468-dfe2-41c9-8e8d-f784af8a63c6.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+![](<../images/assets/19d6a468-dfe2-41c9-8e8d-f784af8a63c6.jpeg>)
 
 </div>
 
