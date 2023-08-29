@@ -1,3 +1,6 @@
+---
+sidebar_position: "7"
+---
 # 💻 Web3 Access
 
 通过Web3 Access功能，可以访问链上应用。

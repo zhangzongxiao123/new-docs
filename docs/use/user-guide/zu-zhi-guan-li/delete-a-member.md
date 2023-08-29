@@ -1,3 +1,6 @@
+---
+sidebar_position: "5"
+---
 # ✈ 删除成员
 
 在业务需要时,Owner和Admin可以删除更低权限等级的成员:

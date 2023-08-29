@@ -1,3 +1,6 @@
+---
+sidebar_position: "4"
+---
 # 🚆 修改权限
 
 组织的Owner/Admin可以对成员权限等级进行修改，具体步骤如下：
