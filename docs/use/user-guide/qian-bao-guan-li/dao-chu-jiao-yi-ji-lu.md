@@ -1,3 +1,6 @@
+---
+sidebar_position: "8"
+---
 # 📝 导出交易记录
 
 1.如有导出全部交易记录的需求，可以通过Sinohope Web端的[Web Console](https://console.sinohope.com/user/login)实现。首先进入Sinohope官网，点击右上角登录，通过App扫码登录Sinohope Web版。
