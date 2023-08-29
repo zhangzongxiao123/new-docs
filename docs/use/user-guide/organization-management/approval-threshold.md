@@ -11,7 +11,7 @@ The process for setting approval thresholds is as follows:
 3. Set the new number of required approvers.
 4. Click "Confirm."
 
-<figure><img src="../.gitbook/assets/6b1247b054aa97478fd4b8ddb9d5407.jpg" alt=""><figcaption></figcaption></figure>
+![](<../images/assets/6b1247b054aa97478fd4b8ddb9d5407.jpg>)
 
 
 
