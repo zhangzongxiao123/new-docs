@@ -1,3 +1,6 @@
+---
+sidebar_position: "0"
+---
 # Welcome to Sinohope
 
 ## 快速开始
