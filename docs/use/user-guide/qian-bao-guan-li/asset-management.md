@@ -4,7 +4,7 @@
 
 自托管平台支持多种公链，如以太坊、比特币等，在创建组织时系统会完成预设公链的配置，以便于管理和使用不同的数字资产。
 
-<figure><img src="../images/assets/image (70).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (70).png>)
 
 <figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
 code=MzIzYzM3NDlkNDgyZWIxOTg1NWVhNGUzYTRmNjZiMzVfcVJSUmJMZDhtaGs5TnVjMXFsQWNyQ1pESzFiVWJ1OHFfVG9rZW46U0QwUWJzSEllb282SzB4TFFMOHVPSG0wc1ZmXzE2ODM2NDM2MDA6MTY4MzY0NzIwMF9WNA" alt=""/><figcaption></figcaption></figure>
@@ -13,7 +13,7 @@ code=MzIzYzM3NDlkNDgyZWIxOTg1NWVhNGUzYTRmNjZiMzVfcVJSUmJMZDhtaGs5TnVjMXFsQWNyQ1p
 
 除了支持主流数字货币如 BTC、ETH、USDT 等之外，自托管平台还支持通过搜索代币名称或合约地址的方式添加和管理自定义的代币和资产，以满足用户不同的需求，如无法找到您想添加的资产，请联系平台工作人员进行处理。
 
-<figure><img src="../images/assets/image (85).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (85).png>)
 
 <figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
 code=MmFjMjQzNTg5ZjFhOWZkZGNhMzMzOWNhY2RmYjE0OTRfMTY1cWNXSGpXUjVKR0diUEk2NHh0TTZUa1BTRlQ2MzlfVG9rZW46Tzh3VmJ0Y2xwb0hqUUp4bEdiZXU2UVBOczdmXzE2ODM2NDM2MDA6MTY4MzY0NzIwMF9WNA" alt=""/><figcaption></figcaption></figure>

@@ -18,7 +18,7 @@
 
 下面是登录新设备申请同意流程，组织成员申请新设备登录后，其所在部门的上级在消息中心会收到成员新设备申请通知，点击通知信息即可进行成员新设备登录的审批
 
-<figure><img src="../images/assets/image (20).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (20).png>)
 
 <figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
 code=MjRlZmVmYjA2MDZiOTBmYzc1M2YwNDdiMjYwM2VhOTZfeEc4Uk9Qd2FVbE1VN01VZHNqWUw5cGpzOWlBYUtDOThfVG9rZW46UTVYMGJUczllb2xvRll4UktmcHVrZDVqczhwXzE2ODM2NDQ3NzI6MTY4MzY0ODM3Ml9WNA" alt=""/><figcaption></figcaption></figure>

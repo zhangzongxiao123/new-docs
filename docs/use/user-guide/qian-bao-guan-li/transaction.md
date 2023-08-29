@@ -4,7 +4,7 @@
 
 用户可以通过在Token界面左滑或者点击币种详情进入转账界面，在拥有权限或完成审批流的前提下，需要输入接收地址、转账金额、备注、Gasfee设置等信息，然后进行确认即可完成转账操作。
 
-<figure><img src="../images/assets/image (26).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (26).png>)
 
 
 
@@ -14,7 +14,7 @@
 
 用户可以通过在Token界面左滑或者点击币种详情进入收款界面，支持向他人提供自己的钱包地址或者二维码的方式进行收款。
 
-<figure><img src="../images/assets/image (65).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (65).png>)
 
 <figure><img src="https://newhuotech.larksuite.com/space/api/box/stream/download/asynccode/?
 code=MjY2YzQ5YzM2NTlmZGExMDNjZjQ0MmJiYjM3MGI4ZTNfRllPS1Z0SHIwRTE1Wjh4aFVZZUdiZHo3dUl5WlB6N3BfVG9rZW46VnNpVmJQZTdib09LU1p4UloyYXU0aG9Wc0ZjXzE2ODM2NDQyODU6MTY4MzY0Nzg4NV9WNA" alt=""/><figcaption></figcaption></figure>

@@ -8,5 +8,5 @@
 
 3.激活更多安全管理选项有助于更好地保障您的账户安全，建议您定期查看安全中小，并依据检测报告优化建议增强安全防护。
 
-<figure><img src="../images/assets/1691069984254.jpg" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/1691069984254.jpg>)
 
