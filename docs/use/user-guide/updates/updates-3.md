@@ -1,3 +1,6 @@
+---
+sidebar_position: "4"
+---
 # 🔄 【重大升级】V1.0.7
 
 &#x20;   新增对Solana、Cardano等主流公链所必需的EdDSA签名算法的支持。
