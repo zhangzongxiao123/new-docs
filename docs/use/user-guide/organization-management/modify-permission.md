@@ -6,7 +6,7 @@ The Owner/Admin of an organization can modify the permission levels of members. 
 2. Locate the member whose permissions you want to change. Click to enter their profile page and select 【Edit】 in the upper-right corner.
 3. Modify the member's organization permission level and department permission level as needed, then click "Confirm".
 
-<figure><img src="../.gitbook/assets/821ae076e49174b2feac6646b9cde22.jpg" alt=""><figcaption></figcaption></figure>
+![](<../images/assets/821ae076e49174b2feac6646b9cde22.jpg>)
 
 4.Member Receives Permission Change Notification and Confirms
 

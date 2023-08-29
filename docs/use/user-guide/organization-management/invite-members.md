@@ -6,7 +6,7 @@ Within the self-custody platform, an organization can have multiple members, inc
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/1691651239488 (3).jpg" alt="" width="563"><figcaption></figcaption></figure>
+![](<../images/assets/1691651239488 (3).jpg>)
 
 </div>
 
@@ -14,10 +14,10 @@ Within the self-custody platform, an organization can have multiple members, inc
 
 3.Enter the invitee's name, email address, select organization and department permissions, then click "Confirm".
 
-<figure><img src="../.gitbook/assets/575fe50131879655c7f910a3104eb17.png" alt=""><figcaption></figcaption></figure>
+![](<../images/assets/575fe50131879655c7f910a3104eb17.png>)
 
 4.The invitee will receive a message containing a link to join the organization. The invitee needs to click the link and follow the instructions to complete the joining process.
 
-![](<../.gitbook/assets/image (54).png>)
+![](<../images/assets/image (54).png>)
 
 5.The Owner can view the list of members who have joined the organization on the organization management page and can also manage the permissions and roles of members on this page.
