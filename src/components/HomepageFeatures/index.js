@@ -23,7 +23,7 @@ const FeatureList = [
           </div>
           <div className={styles.buttons}>
             <Link
-              to="/docs/use/user-guide/intro">
+              to="/docs/use/user-guide/SUMMARY">
               User Guide
             </Link>
           </div>
