@@ -1,6 +1,4 @@
-# Table of contents
-
-* [👋 Welcome to Sinohope](README.md)
+# Welcome to Sinohope
 
 ## 快速开始
 

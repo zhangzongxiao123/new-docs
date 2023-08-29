@@ -1,3 +1,6 @@
+---
+sidebar_position: "2"
+---
 # ✨ 创建组织
 
 **注册&登录流程**
@@ -18,19 +21,19 @@ Apple：[https://apps.apple.com/hk/app/sinohope-mpc-wallet/id1672956199](https:/
 
 3.组织创建者打开Sinohope app，并选择“注册”选项，并进一步提供电子邮箱、填写验证码完成人机验证。
 
-<figure><img src="../images/assets/image (66).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (66).png>)
 
 4.输入邮箱收到的6位验证码完成绑定邮箱后，用户需要进一步设置并确认6位数字密码。
 
-<figure><img src="../images/assets/image (58).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (58).png>)
 
 5.完成以上步骤后用户可以进行组织选择，并按照提示信息完成GA的绑定与恢复密码的设置。**需要注意的是，恢复密钥将用于恢复私钥分片，请进行备份并妥善保管。**
 
-<figure><img src="../images/assets/image (56).png" alt=""/><figcaption></figcaption></figure>
+![](<../images/assets/image (56).png>)
 
 6.GA绑定和恢复密钥设置后将进行组织初始化，初始化完成后用户可以进入组织界面。
 
-<figure><img src="../images/assets/19d6a468-dfe2-41c9-8e8d-f784af8a63c6.jpeg" alt="" width="375"/><figcaption></figcaption></figure>
+![](<../images/assets/19d6a468-dfe2-41c9-8e8d-f784af8a63c6.jpeg>)
 
 **注意事项**
 
