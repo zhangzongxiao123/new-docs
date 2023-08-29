@@ -6,5 +6,5 @@ Security Center provides real-time security checks and account security manageme
 2. The system will automatically evaluate your current account security situation. Click \[View Detection Report] to see the detailed content.
 3. Activating more security management options will enhance your account security. It's recommended to regularly review the Security Center, follow the optimization suggestions from the detection report, and enhance your security measures accordingly.
 
-<figure><img src="../.gitbook/assets/1691069984254.jpg" alt=""><figcaption></figcaption></figure>
+![](<../images/assets/1691069984254.jpg>)
 

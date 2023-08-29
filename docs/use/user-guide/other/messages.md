@@ -14,7 +14,7 @@ For instance, when a member of an organization applies to log in with a new devi
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="525"><figcaption></figcaption></figure>
+![](<../images/assets/image (3).png>)
 
 </div>
 
