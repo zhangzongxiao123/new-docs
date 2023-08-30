@@ -1,3 +1,6 @@
+---
+sidebar_position: "4"
+---
 # 🔒 Transfer Protection
 
 SINOHOPE offers users a transfer protection feature. When enabled, users can only transfer funds to wallets within the organization or addresses saved in the address book. This helps prevent losses due to incorrect addresses. Transfer protection is enabled by default. If you wish to disable it, you can navigate to the "Settings" section by clicking on "Transactions" from the "My Page."

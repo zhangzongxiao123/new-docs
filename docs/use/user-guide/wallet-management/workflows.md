@@ -1,3 +1,6 @@
+---
+sidebar_position: "7"
+---
 # 🎞 Workflow
 
 SINOHOPE offers an approval workflow feature for transfers and adding addresses to the address book. This functionality enables different members within a team to collaboratively manage digital assets.

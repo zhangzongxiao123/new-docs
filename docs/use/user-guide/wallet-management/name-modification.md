@@ -1,3 +1,6 @@
+---
+sidebar_position: "6"
+---
 # 🪧 Modifying Organization Name
 
 When necessary, the organization creator (Owner) can contact SINOHOPE customer service to request a change of the organization's name.
