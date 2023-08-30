@@ -1,3 +1,6 @@
+---
+sidebar_position: "1"
+---
 # 🛡 Security Center
 
 Security Center provides real-time security checks and account security management features.

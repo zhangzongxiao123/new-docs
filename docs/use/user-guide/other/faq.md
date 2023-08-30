@@ -1,3 +1,6 @@
+---
+sidebar_position: "5"
+---
 # 🔧 FAQ
 
 1.What is an MPC Wallet?&#x20;

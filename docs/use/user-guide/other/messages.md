@@ -1,3 +1,6 @@
+---
+sidebar_position: "2"
+---
 # 🖨 Notifications
 
 The message notification feature of the self-custody platform helps users stay updated on changes and the latest developments in their accounts in a timely manner. When there are unread messages, a small red dot will be displayed. Upon clicking and entering the messages, the red dot will disappear.

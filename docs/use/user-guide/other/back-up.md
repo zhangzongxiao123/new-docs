@@ -1,3 +1,6 @@
+---
+sidebar_position: "3"
+---
 # 🔏 Disaster Recovery
 
 SINOHOPE has established a multi-level private key shard backup system to address potential disaster recovery scenarios:
