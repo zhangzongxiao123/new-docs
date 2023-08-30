@@ -1,4 +1,6 @@
-# Table of contents
+---
+sidebar_position: "0"
+---
 
 * [👋 Welcome to SINOHOPE](README.md)
 
