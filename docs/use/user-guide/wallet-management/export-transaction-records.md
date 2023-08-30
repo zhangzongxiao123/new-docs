@@ -1,3 +1,6 @@
+---
+sidebar_position: "8"
+---
 # 📝 Export Transaction Records
 
 If you need to export all transaction records, you can achieve this through the SINOHOPE [Web Console](https://console.sinohope.com/user/login).

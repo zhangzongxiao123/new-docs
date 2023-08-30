@@ -1,3 +1,6 @@
+---
+sidebar_position: "5"
+---
 # ⛽ Transaction Acceleration and Cancellation
 
 During times of blockchain network congestion, transactions can remain in a pending state and might not complete. Some cryptocurrency transactions might even be temporarily halted during network congestion. If there's a high volume of transactions waiting to be confirmed on-chain, your transaction could be delayed for hours or even days.

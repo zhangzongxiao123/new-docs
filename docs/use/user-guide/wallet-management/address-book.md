@@ -1,3 +1,6 @@
+---
+sidebar_position: "3"
+---
 # 🎫 Address Book
 
 To enhance asset security, users can add trusted addresses to the address book. This allows for safer and quicker transfers to trusted contacts.
