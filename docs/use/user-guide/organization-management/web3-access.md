@@ -1,3 +1,6 @@
+---
+sidebar_position: "7"
+---
 # 💻 Web3 Access
 
 Through the Web3 Access feature, you can interact with blockchain-based applications.

@@ -1,3 +1,6 @@
+---
+sidebar_position: "3"
+---
 # 🎯 Adding Departments & Wallets
 
 **Adding Departments**

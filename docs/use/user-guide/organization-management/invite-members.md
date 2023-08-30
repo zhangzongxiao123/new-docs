@@ -1,3 +1,6 @@
+---
+sidebar_position: "2"
+---
 # 📎 Inviting Members
 
 Within the self-custody platform, an organization can have multiple members, including different types. Members of different types possess varying permissions and responsibilities. The steps to join an organization are as follows:

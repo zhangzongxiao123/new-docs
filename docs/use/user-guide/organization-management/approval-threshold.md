@@ -1,3 +1,6 @@
+---
+sidebar_position: "6"
+---
 # ⚓ Setting Approval Threshold
 
 SINOHOPE offers a flexible approval threshold setting feature, enabling organization administrators to enhance efficiency while ensuring security. Managers can tailor different thresholds according to specific needs to control and review operations of varying levels.&#x20;

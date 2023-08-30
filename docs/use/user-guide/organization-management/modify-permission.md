@@ -1,3 +1,6 @@
+---
+sidebar_position: "4"
+---
 # 🚆 Modifying Permissions
 
 The Owner/Admin of an organization can modify the permission levels of members. The specific steps are as follows:

@@ -1,3 +1,6 @@
+---
+sidebar_position: "5"
+---
 # ✈ Removing Members
 
 When necessary for business purposes, Owners and Admins can remove members with lower permission levels:

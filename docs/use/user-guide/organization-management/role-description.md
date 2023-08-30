@@ -1,3 +1,6 @@
+---
+sidebar_position: "1"
+---
 # 📪 Member Role
 
 SINOHOPE provides users with various user roles, each having different levels of permissions:
