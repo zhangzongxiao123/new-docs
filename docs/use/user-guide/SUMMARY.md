@@ -1,8 +1,7 @@
 ---
 sidebar_position: "0"
 ---
-
-* [👋 Welcome to SINOHOPE](README.md)
+# Welcome to Sinohope
 
 ## Quick Start
 
