@@ -1,3 +1,6 @@
+---
+sidebar_position: "1"
+---
 # 🔄 \[App Update] V1.1.2
 
 * Optimized login expiration strategy.

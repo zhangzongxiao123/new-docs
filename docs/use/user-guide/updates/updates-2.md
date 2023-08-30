@@ -1,3 +1,6 @@
+---
+sidebar_position: "3"
+---
 # 🔄 \[App Update] V1.0.7
 
 * Added support for the EdDSA MPC signature algorithm, covering over 90% of mainstream public chains. No need to uninstall the App, just install the update.
